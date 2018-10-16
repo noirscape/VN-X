@@ -4,3 +4,4 @@
 *.nacp
 *.pfs0
 build/*
+.vscode/*
